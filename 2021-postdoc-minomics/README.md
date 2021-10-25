@@ -1,19 +1,22 @@
-[CLICK ON THIS LINK TO SEE PDF VERSION](job2021a.pdf)
+**ENGLISH VERSION** - - [CLICK ON THIS LINK TO SEE PDF VERSION](job2021a.pdf)
 
 ![This is a banner image for the job offer](banner.png "Job offer baner image")
 
-**ENGLISH VERSION**
 
 # Post-doctorate in immersive scientific visualization of omic data. (M / F)
 
 ## Project description
 
-The LBT has developed original tools for the visualization and analysis of protein structures, focused on advanced environments such as virtual reality helmets and display walls. This project aims to apply and improve the Unitymol approach to computer analysis, visualization and modeling of Redox signaling networks. The purpose of this project is to develop a bioinformatics tool for the visualization of massive proteomic datasets of redox signaling networks. These are made understandable through a large and high-resolution visualization wall to analyze the network dynamics, based on quantitative and time-resolved proteomic technology allowing detection of nitrosylation and glutathionylation. Structural interpretations will be enabled through an automated modeling pipeline linking to several human mitochondrial diseases.We are seeking a highly motivated candidate to design and implement a **next generation bioinformatics visualization platform**. The candidate will develop a tool for modeling the 3D structure of all modified proteins. The generated data will feed into visualization of the redox network circuitries. We will achieve this through a graphical representation of the redox system and its temporal evolution with the possibility to explore interconnections between different systems.Project foundations were previously established (see e.g. UnityMol), providing a well-defined framework to get started. This position is a unique training opportunity in a multi-disciplinary environment combining several leading groups in academic research.
+The LBT has developed original tools for the visualization and analysis of protein structures, focused on advanced environments such as virtual reality helmets and display walls. This project aims to apply and improve the Unitymol approach to computer analysis, visualization and modeling of Redox signaling networks. The purpose of this project is to develop a bioinformatics tool for the visualization of massive proteomic datasets of redox signaling networks. These are made understandable through a large and high-resolution visualization wall to analyze the network dynamics, based on quantitative and time-resolved proteomic technology allowing detection of nitrosylation and glutathionylation. Structural interpretations will be enabled through an automated modeling pipeline linking to several human mitochondrial diseases. We are seeking a highly motivated candidate to design and implement a **next generation bioinformatics visualization platform**. The candidate will develop a tool for modeling the 3D structure of all modified proteins. The generated data will feed into visualization of the redox network circuitries. We will achieve this through a graphical representation of the redox system and its temporal evolution with the possibility to explore interconnections between different systems.Project foundations were previously established (see e.g. UnityMol), providing a well-defined framework to get started. This position is a unique training opportunity in a multi-disciplinary environment combining several leading groups in academic research.
 
 Some literature references linked to the project:
-[1] Maes et al., J Integrative Bioinformatics (2018) 15, 20180006 
-[2] Lv et al., PLOS One (2013), 8(3): e57990 
+
+[1] Maes et al., J Integrative Bioinformatics (2018) 15, 20180006 [PDF VERSION](https://www.degruyter.com/document/doi/10.1515/jib-2018-0006/pdf)
+
+[2] Lv et al., PLOS One (2013), 8(3): e57990 [PDF VERSION](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0057990&type=printable)
+
 [3] Martinez & Baaden, Acta Cryst D (2021), D77, 746-754
+[PDF VERSION](https://journals.iucr.org/d/issues/2021/06/00/qr5004/qr5004.pdf)
 
 **Activities**
 - Development of ideas and prototypes for the immersive study of redox networks and modified cysteine sites
