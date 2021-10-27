@@ -12,7 +12,7 @@ broader support for the variety of structural data available today, especially f
 
 Supervision: Marc Baaden baaden@smplinux.de and Antoine Taly, taly@ibpc.fr
 
-Collaborations : PaleBlue company, Norway and Prof. Lutz Eichacker at the University of Stavanger, Norway
+Collaborations : [PaleBlue company, Norway](https://pale.blue) and Prof. Lutz Eichacker at the University of Stavanger, Norway
 
 Some literature references linked to the project:
 
