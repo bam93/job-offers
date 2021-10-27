@@ -1,6 +1,6 @@
 **ENGLISH VERSION** - - [CLICK ON THIS LINK TO SEE PDF VERSION](job2021a.pdf)
 
-![This is a banner image for the job offer](banner.png "Job offer baner image")
+![This is a banner image for the job offer](banner.png "Job offer banner image")
 
 
 # Post-doctorate in immersive scientific visualization of omic data. (M / F)
@@ -17,6 +17,8 @@ Some literature references linked to the project:
 
 [3] Martinez & Baaden, Acta Cryst D (2021), D77, 746-754
 [PDF VERSION](https://journals.iucr.org/d/issues/2021/06/00/qr5004/qr5004.pdf)
+
+![This is an image depicting a session with MinOmics prototype on the display wall](minomics.png "Minomics display wall session image")
 
 **Activities**
 - Development of ideas and prototypes for the immersive study of redox networks and modified cysteine sites
