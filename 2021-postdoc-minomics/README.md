@@ -68,7 +68,11 @@ Most of the work will be carried out in the laboratory of Theoretical Biochemist
 **Salary:** between 2,140 € and 3,954 € gross monthly according to experience / the candidate&#39;s CV
 (amount indicated is before tax)
 
-**Team Leader:** Marc Baaden - <a href="https://twitter.com/baam93" class="twitter-follow-button" data-show-count="false">Follow @baam93</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script> - <a href="https://fr.linkedin.com/pub/marc-baaden/1/a5b/918" style="text-decoration:none;"><span style="font: 80% Arial,sans-serif; color:#0783B6;"><img src="https://static.licdn.com/scds/common/u/img/webpromo/btn_in_20x15.png" width="20" height="15" alt="View Marc Baaden's LinkedIn profile" style="vertical-align:middle;" border="0">&nbsp;View Marc Baaden's profile</span></a>
+**Team Leader:** Marc Baaden - <a href="https://twitter.com/baam93" class="twitter-follow-button" data-show-count="false">Follow @baam93</a>
+
+ - <a href="https://fr.linkedin.com/pub/marc-baaden/1/a5b/918" style="text-decoration:none;"><span style="font: 80% Arial,sans-serif; color:#0783B6;"><img src="https://static.licdn.com/scds/common/u/img/webpromo/btn_in_20x15.png" width="20" height="15" alt="View Marc Baaden's LinkedIn profile" style="vertical-align:middle;" border="0">&nbsp;View Marc Baaden's profile</span></a>
+
+<a href="https://twitter.com/baam93" class="twitter-follow-button" data-show-count="false">Follow @baam93</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 **Websites:**
