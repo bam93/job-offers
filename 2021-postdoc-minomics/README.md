@@ -1,6 +1,6 @@
 **ENGLISH VERSION** - - [CLICK ON THIS LINK TO SEE PDF VERSION](job2021a.pdf)
 
-![This is a banner image for the job offer](banner.png "Job offer banner image")
+![This is a banner image for the job offer](https://github.com/bam93/job-offers/blob/main/2021-postdoc-minomics/banner.png?raw=true "Job offer banner image")
 
 
 # Post-doctorate in immersive scientific visualization of omic data. (M / F)
@@ -18,7 +18,7 @@ Some literature references linked to the project:
 [3] Martinez & Baaden, Acta Cryst D (2021), D77, 746-754
 [PDF VERSION](https://journals.iucr.org/d/issues/2021/06/00/qr5004/qr5004.pdf)
 
-![This is an image depicting a session with MinOmics prototype on the display wall](minomics.png "Minomics display wall session image")
+![This is an image depicting a session with MinOmics prototype on the display wall](https://github.com/bam93/job-offers/blob/main/2021-postdoc-minomics/minomics.png?raw=true "Minomics display wall session image")
 
 **Activities**
 - Development of ideas and prototypes for the immersive study of redox networks and modified cysteine sites
@@ -69,10 +69,6 @@ Most of the work will be carried out in the laboratory of Theoretical Biochemist
 (amount indicated is before tax)
 
 **Team Leader:** Marc Baaden - <a href="https://twitter.com/baam93" class="twitter-follow-button" data-show-count="false">Follow @baam93</a> - <a href="https://fr.linkedin.com/pub/marc-baaden/1/a5b/918" style="text-decoration:none;"><span style="font: 80% Arial,sans-serif; color:#0783B6;"><img src="https://static.licdn.com/scds/common/u/img/webpromo/btn_in_20x15.png" width="20" height="15" alt="View Marc Baaden's LinkedIn profile" style="vertical-align:middle;" border="0">&nbsp;View Marc Baaden's profile</span></a> 
- 
- 
- <a href="https://twitter.com/baam93" class="twitter-follow-button" data-show-count="false">Follow @baam93</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 
 **Websites:**
 * [http://www.baaden.ibpc.fr](http://www.baaden.ibpc.fr)
