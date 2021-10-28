@@ -70,7 +70,7 @@ Most of the work will be carried out in the laboratory of Theoretical Biochemist
 
 **Team Leader:** Marc Baaden - <a href="https://twitter.com/baam93" class="twitter-follow-button" data-show-count="false">Follow @baam93</a> - <a href="https://fr.linkedin.com/pub/marc-baaden/1/a5b/918" style="text-decoration:none;"><span style="font: 80% Arial,sans-serif; color:#0783B6;"><img src="https://static.licdn.com/scds/common/u/img/webpromo/btn_in_20x15.png" width="20" height="15" alt="View Marc Baaden's LinkedIn profile" style="vertical-align:middle;" border="0">&nbsp;View Marc Baaden's profile</span></a> 
 
-**HOW TO APPLY?** go through the CNRS employment portal using the following link: (TO BE UPDATED)
+**HOW TO APPLY?** go through the CNRS employment portal using the following link: [https://bit.ly/31aXgJx](https://bit.ly/31aXgJx)
 
 **Websites:**
 * [http://www.baaden.ibpc.fr](http://www.baaden.ibpc.fr)
