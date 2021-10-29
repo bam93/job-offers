@@ -97,3 +97,12 @@ The CNRS (Centre National de la Recherche Scientifique) is an equal opportunity 
 * [http://www.baaden.ibpc.fr](http://www.baaden.ibpc.fr)
 * [http://unitymol.sourceforge.net](http://unitymol.sourceforge.net)
 
+## Work environment
+
+You can find several videos related to the exceptional work environment at LBT/IBPC as well as testimonies from former fellows at the institute via the following links:
+* [Presentation of Dynamo Cofund research axes #3](https://youtu.be/bbKvK1iBMxw?t=101)
+* [Marina's post-doc experience in the lab](https://www.youtube.com/watch?v=RRK_dG2eraA)
+* [Stepan's post-doc experience in the lab](https://www.youtube.com/watch?v=rxDgyxpkpBw)
+* [The Dynamo fellowship program official presentation video](https://www.youtube.com/watch?v=pHr7178398w&t=1s)
+
+[![This is an overview of videos describing the work environment](https://github.com/bam93/job-offers/blob/main/2021-postdoc-cofund/workenvironment.png?raw=true "Job offer banner image")](https://www.youtube.com/channel/UCB_u_mFVNM2mbbyUj7rwKmw)
