@@ -1,4 +1,4 @@
-**ENGLISH VERSION** - - [CLICK ON THIS LINK TO SEE PDF VERSION](job2021b.pdf)
+**ENGLISH VERSION** - - [CLICK ON THIS LINK TO SEE OR DOWNLOAD PDF VERSION](job2021b.pdf)
 
 ![This is a banner image for the job offer](https://github.com/bam93/job-offers/blob/main/2021-postdoc-cofund/banner.png?raw=true "Job offer banner image")
 
