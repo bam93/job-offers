@@ -1,4 +1,4 @@
-**ENGLISH VERSION** - - [CLICK ON THIS LINK TO SEE PDF VERSION](job2021a.pdf)
+**ENGLISH VERSION** - - [CLICK ON THIS LINK TO SEE OR DOWNLOAD PDF VERSION](job2021a.pdf)
 
 ![This is a banner image for the job offer](https://github.com/bam93/job-offers/blob/main/2021-postdoc-minomics/banner.png?raw=true "Job offer banner image")
 
@@ -76,3 +76,15 @@ Most of the work will be carried out in the laboratory of Theoretical Biochemist
 * [http://www.baaden.ibpc.fr](http://www.baaden.ibpc.fr)
 * [http://unitymol.sourceforge.net](http://unitymol.sourceforge.net)
 
+
+## Work environment
+
+You can find several videos related to the exceptional work environment at LBT/IBPC as well as testimonies from former fellows at the institute via the following links:
+* [Marina's post-doc experience in the lab](https://www.youtube.com/watch?v=RRK_dG2eraA)
+* [Stepan's post-doc experience in the lab](https://www.youtube.com/watch?v=rxDgyxpkpBw)
+
+Although **this particular post-doctoral fellowship offer is not part of the Cofund fellowship scheme**, the general informations about the institute and the research carried out are still relevant:
+* [Brief presentation of computational research carried out](https://youtu.be/bbKvK1iBMxw?t=101)
+* [IBPC institute presentation video](https://www.youtube.com/watch?v=pHr7178398w&t=1s)
+
+[![This is an overview of videos describing the work environment](https://github.com/bam93/job-offers/blob/main/2021-postdoc-cofund/workenvironment.png?raw=true "Job offer banner image")](https://www.youtube.com/channel/UCB_u_mFVNM2mbbyUj7rwKmw)
